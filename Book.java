@@ -16,4 +16,8 @@ public class Book
 	public void settitle(float title){	
 	this.title=title;
 	}
+
+	public int gettitle(){
+	return title;
+	}
 }
